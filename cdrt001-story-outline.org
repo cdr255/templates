@@ -1,0 +1,125 @@
+#+TITLE: "Title of Story" Outline
+#+SUBTITLE: [CDRT-001]
+#+AUTHOR: Christopher Rodriguez
+#+DATE: 2017-07-18 00:46:18 -0400
+#+EMAIL: cdr255@gmail.com
+#+LANGUAGE: en
+#+CREATOR: Emacs 25.2.2 (Org mode 9.0.9)
+#
+# --------------------------------------------------------------------
+#
+# This file started out as [CDRT-001] v1.0
+# 
+# The purpose of this file is to make the rather arduous process of
+# outlining a long story (using the snowflake method detailed at
+# http://www.advancedfictionwriting.com/articles/snowflake-method/ ) a
+# little bit more organized by assuming a certain file structure.
+#
+# Created by Christopher Rodriguez on 2017-07-18 02:36:42 -0400
+# Last Modified by Christopher Rodriguez on 2017-07-18 02:37:08 -0400
+#
+# --------------------------------------------------------------------
+#
+#+HTML_DOCTYPE: html5
+#+HTML_CONTAINER: div
+#+HTML_LINK_HOME: http://www.cdr255.com
+#+HTML_LINK_UP:
+#+HTML_MATHJAX: align: left indent: 5em tagside: left font: Neo-Euler
+#+HTML_HEAD: 
+#+HTML_HEAD_EXTRA: 
+#+INFOJS_OPT: view:info toc:nil
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [letterpaper]
+#+LATEX_HEADER: 
+#+LATEX_HEADER_EXTRA:
+#+LATEX_COMPILER: pdflatex
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:t title:t toc:t todo:t |:t
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:t
+#+OPTIONS: html-preamble:t html-scripts:t html-style:t
+#+OPTIONS: html5-fancy:t tex:t
+
+* Organized Chaos
+** Elements
+*** Element I
+
+    One sentence detailing the cool parts of the element.
+** Randomness
+*** Where the Randomness came from
+
+    *The actual randomness in bold.*
+
+    One or two sentences detailing changes/limits of the above.
+
+* Actual Outline
+** Single Sentence (sum up main plot; ~15 W; no names, no jargon)
+   text
+** Single Paragraph (setup, arcs I-III, end; ~5 S; names, no jargon)
+   text
+** Character Studies (describe main players; ~5 S + 1 ¶; jargon okay)
+*** Character I Name
+    [[./text][Optional Link to Character Details file]]
+
+**** Single Sentences
+    Single Sentence Storyline (as above, but for this character).
+
+    A sentence describing the character's abstract motivation in the
+    plot.
+
+    A sentence describing the character's concrete goal in the plot.
+
+    A sentence describing the obstacles that change the character's
+    goals.
+
+    A sentence describing the lesson/epiphany that changes the
+    character.
+
+**** Paragraph
+
+    Single Paragraph outlining the character's personal arc in the
+    story (as above).
+** Single Page (detailing Single Paragraph above; ~5 paragraphs)
+
+*** Setup
+    text
+*** Arc I
+    text
+*** Arc II
+    text
+*** Arc III
+    text
+*** Resolution
+    text
+** Roster Pages (story from pov of each maj/min protag/antag; ~5 ¶ ea)
+*** Character I Name
+    text
+** Five Pages (detailing Single Page above; ~25 paragraphs)
+
+*** Setup
+    text
+*** Arc I
+    text
+*** Arc II
+    text
+*** Arc III
+    text
+*** Resolution
+    text
+** Character Details (describe all characters; 1 file each [CDRF-009])
+
+*** Character I
+    [[./text][Link to .txt exported file]] ?
+
+** Scene List (detail Five Pages above; 1 table, 5 columns, many rows)
+
+| ## | Title          | POV       | Beat    | Ch # |
+|----+----------------+-----------+---------+------|
+| 01 | Title of Scene | Character | Up/Down |   01 |
+
+** Narrative Description (of each Scene (check conflict); 5 ¶ each)
+
+*** Scene I - Title of Scene (POV)
+    text
